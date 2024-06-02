@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27001716-a914-473b-892d-6708ad689cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/remove_secrets.sh" afterDir="false" />
-    </list>
+    <list default="true" id="27001716-a914-473b-892d-6708ad689cf9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/capstone_RAG" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,6 +40,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/capstone_RAG" />
       <recent name="$PROJECT_DIR$/RAG" />
     </key>
   </component>
@@ -169,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717319202648</updated>
       <workItem from="1717319203670" duration="3055000" />
-      <workItem from="1717323175613" duration="301000" />
+      <workItem from="1717323175613" duration="611000" />
     </task>
     <servers />
   </component>
